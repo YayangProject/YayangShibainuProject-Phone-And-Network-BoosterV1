@@ -1,13 +1,15 @@
 # 🚀 YayangShibainuProject Phone & Network Booster V1
 
-![Android](https://img.shields.io/badge/Android-4.0%2B-brightgreen)
+![Android](https://img.shields.io/badge/Android-10%2B-brightgreen)
 ![Magisk](https://img.shields.io/badge/Magisk-20.0%2B-orange)
+![KernelSU](https://img.shields.io/badge/KernelSU-Supported-yellow)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Version](https://img.shields.io/badge/Version-1.0-purple)
+![Status](https://img.shields.io/badge/Status-Stable-success)
 
 ## 📱 Ultimate System & Network Optimization Module
 
-A powerful Magisk module that enhances both **phone performance** and **network speed** through advanced kernel-level optimizations. Experience buttery smooth UI and lightning-fast internet connections!
+A powerful Magisk/KernelSU module that enhances both **phone performance** and **network speed** through advanced kernel-level optimizations. Experience buttery smooth UI and lightning-fast internet connections!
 
 ---
 
@@ -28,26 +30,33 @@ A powerful Magisk module that enhances both **phone performance** and **network 
 ### ⚡ Advanced Technologies
 - **Kernel-Level Optimization** - Direct system parameter tuning
 - **Real-Time Performance Monitoring** - Adaptive optimization based on usage
-- **Universal Device Support** - Compatible with all Android devices (4.0+)
+- **Universal Device Support** - Compatible with Android 10-16+
 - **Battery-Friendly** - No additional battery drain
 
 ---
 
 ## 🛠️ Installation
 
+### Magisk Installation:
 1. **Download** the latest module zip
 2. **Open Magisk Manager** → Modules → Install from Storage
 3. **Select** the downloaded zip file
 4. **Reboot** your device
 5. **Enjoy** enhanced performance!
 
+### KernelSU Installation:
+1. **Download** the latest module zip
+2. **Open KernelSU Manager** → Modules → Install from storage
+3. **Select** the downloaded zip file
+4. **Reboot** your device
+
 ---
 
 ## 📊 Compatibility
 
-- **Android Versions:** 4.0 Ice Cream Sandwich to Android 16+
+- **Android Versions:** 10 (Q) to Android 16+
+- **Root Solutions:** Magisk & KernelSU Supported
 - **Device Support:** All Android devices with root access
-- **Magisk Version:** 20.0 and above
 - **Architecture:** ARM, ARM64, x86, x86_64
 
 ---
@@ -90,8 +99,10 @@ We welcome contributions! Feel free to:
 
 ## 📞 Support & Community
 
-Join our Telegram channel for support and updates:
+Join our communities for support and updates:
+
 [![Telegram](https://img.shields.io/badge/Telegram-YayangShibainuProject-blue)](https://t.me/yayangshibainuproject)
+[![Instagram](https://img.shields.io/badge/Instagram-@yayangshibainu-pink)](https://www.instagram.com/yayangshibainu?igsh=MjhqcjZobjdjaDJt)
 
 ---
 
@@ -106,5 +117,9 @@ This module modifies system parameters for performance enhancement. Use at your 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+## 🐕 About YayangShibainuProject
+
+YayangShibainuProject is dedicated to creating high-quality Android optimization tools and modules. Follow us for more exciting projects!
 
 **🌟 If this project helps you, please give it a star! 🌟**
